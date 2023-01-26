@@ -121,6 +121,11 @@ main {
     opacity: 0.25;
 }
 
+.course{
+    border-radius: 9px;
+    box-shadow: 6px 9px #f6f6f6;
+}
+
 .course-info{
     display: flex;
     align-items: center;
